@@ -8,8 +8,10 @@ This repository is containing notes and tutorials from Cloud Native Fundamentals
 [Architecture Consideration for Cloud Native Applications](/notes/Introduction_to_Cloud_Native_Fundamentals.md)
 
 ## 3. Container Orchestration with Kubernetes
+[Container Orchestration with Kubernetes](/notes/Container_Orchestration_with_Kubernetes.md)
 
 ## 4. Open Source PaaS
+[]()
 
 [comment]: <> (![]&#40; ""&#41;)
 [comment]: <> (![]&#40; ""&#41;)
@@ -17,3 +19,4 @@ This repository is containing notes and tutorials from Cloud Native Fundamentals
 [comment]: <> (![]&#40; ""&#41;)
 
 ## 5. CI/CD with Cloud Native Tooling
+[]()
