@@ -2,10 +2,10 @@
 This repository is containing notes and tutorials from Cloud Native Fundamentals Scholarship
 
 ## 1. Introduction to Cloud Native Fundamentals
-[Introduction to Cloud Native Fundamentals](notes/Introduction to Cloud Native Fundamentals.md)
+[Introduction to Cloud Native Fundamentals](cloud-native-udacity/notes/Introduction to Cloud Native Fundamentals.md)
 
 ## 2. Architecture Consideration for Cloud Native Applications
-[Architecture Consideration for Cloud Native Applications](notes/Architecture Consideration for Cloud Native Applications.md)
+[Architecture Consideration for Cloud Native Applications](cloud-native-udacity/notes/Architecture Consideration for Cloud Native Applications.md)
 
 ## 3. Container Orchestration with Kubernetes
 
