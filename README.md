@@ -15,8 +15,3 @@ This repository is containing notes and tutorials from Cloud Native Fundamentals
 
 ## 5. CI/CD with Cloud Native Tooling
 [CI/CD with Cloud Native Tooling](/notes/CI_CD_with_Cloud_Native_Tooling.md)
-
-[comment]: <> (![]&#40; ""&#41;)
-[comment]: <> (![]&#40; ""&#41;)
-[comment]: <> (![]&#40; ""&#41;)
-[comment]: <> (![]&#40; ""&#41;)
