@@ -11,12 +11,12 @@ This repository is containing notes and tutorials from Cloud Native Fundamentals
 [Container Orchestration with Kubernetes](/notes/Container_Orchestration_with_Kubernetes.md)
 
 ## 4. Open Source PaaS
-[]()
-
-[comment]: <> (![]&#40; ""&#41;)
-[comment]: <> (![]&#40; ""&#41;)
-[comment]: <> (![]&#40; ""&#41;)
-[comment]: <> (![]&#40; ""&#41;)
+[Open Source PaaS](/notes/Open_Source_PaaS.md)
 
 ## 5. CI/CD with Cloud Native Tooling
-[]()
+[CI/CD with Cloud Native Tooling](/notes/CI_CD_with_Cloud_Native_Tooling.md)
+
+[comment]: <> (![]&#40; ""&#41;)
+[comment]: <> (![]&#40; ""&#41;)
+[comment]: <> (![]&#40; ""&#41;)
+[comment]: <> (![]&#40; ""&#41;)
